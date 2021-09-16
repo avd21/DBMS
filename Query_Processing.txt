@@ -1,5 +1,0 @@
-mysql -h localhost -u root
-
-show databases;
-show table table_name;
-mysqldump -u root -h db_test > dbtest.sql
